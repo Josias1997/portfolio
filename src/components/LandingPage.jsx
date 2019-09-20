@@ -16,19 +16,27 @@ class LandingPage extends Component {
 						 <div className="banner-text">
 						 	<h1>Full Stack Web Developer</h1>
 						 	<hr/>
-						 	<p>HTML/CSS | Bootstrap | JavaScript | ReactJS | Python | PHP | Django | Symfony | MySQL</p>
+						 	<p>HTML/CSS | Bootstrap | JavaScript | ReactJS | Python | Django | React Native</p>
 						 	<div className="social-links">
 						 		<a href="https://github.com/Josias1997" target="_blank" rel="noopener noreferrer">
-						 			<i className="fab fa-github" aria-hidden="true"></i>
+						 			<i className="fab fa-github" aria-hidden="true">
+
+									</i>
 						 		</a>
 						 		<a href="https://www.linkedin.com/in/b-josias-yannick-kologo-5a7b77150/" target="_blank" rel="noopener noreferrer">
-						 			<i className="fab fa-linkedin" aria-hidden="true"></i>
+						 			<i className="fab fa-linkedin" aria-hidden="true">
+
+									</i>
 						 		</a>
 						 		<a href="https://web.facebook.com/profile.php?id=100007434435780" target="_blank" rel="noopener noreferrer">
-						 			<i className="fab fa-facebook" aria-hidden="true"></i>
+						 			<i className="fab fa-facebook" aria-hidden="true">
+
+									</i>
 						 		</a>
 						 		<a href="https://www.hackerrank.com/kologojosias" target="_blank" rel="noopener noreferrer">
-						 			<i className="fab fa-hackerrank" aria-hidden="true"></i>
+						 			<i className="fab fa-hackerrank" aria-hidden="true">
+
+									</i>
 						 		</a>
 						 	</div>
 						 </div>
